@@ -412,6 +412,15 @@ please preview your site before committing, and make sure to run
   you will need access to software as described below.
   In addition, you will need an up-to-date web browser.
 </p>
+
+<p>You will need to download and install the following software:</p>
+
+<p><a href="https://cran.r-project.org/"><b>The R programming language software</b></a></p>
+
+<p><a href="https://www.rstudio.com/"><b>R Studio, an integrated development environment (IDE) for R</b></a>
+  
+<p><b><font color="red">PLEASE NOTE:</font></b> In order to download and install these pieces of software you will need administrative privileges on the computer
+  you are using.  If you do not have such privileges, contact your systems adminstrator as soon as possible.</p>
 <p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
