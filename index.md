@@ -419,6 +419,13 @@ please preview your site before committing, and make sure to run
 
 <p><a href="https://www.rstudio.com/"><b>R Studio, an integrated development environment (IDE) for R</b></a>
   
+<p>Here are links to the Carpentries curricula for this workshop:</p>
+
+<p><a href="https://datacarpentry.org/spreadsheets-socialsci/"><b>Data Organization in Spreadsheets for Social Scientists</b></a></p>
+
+<p><a href="https://datacarpentry.org/r-socialsci/"><b>Data Analysis and Visualization with R for Social Scientists</b></a></p>
+
+  
 <p><b><font color="red">PLEASE NOTE:</font></b> In order to download and install these pieces of software you will need administrative privileges on the computer
   you are using.  If you do not have such privileges, contact your systems adminstrator as soon as possible.</p>
 <p>
